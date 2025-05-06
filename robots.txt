@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://outdoor-solar-lighting-oman.alwejhagroup.com/sitemap.xml
